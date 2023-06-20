@@ -1,9 +1,6 @@
 
 # NTHU I2P3   MiniChess AI (~~Artificial Idiot~~)
 
-the submission one is the alpha-beta prunning player
-
-
 ## Introduction
 This is an AI program about Mini Chess. It designs a state value function to evaluate each game position and utilizes minimax and alpha-beta pruning techniques to calculate the optimal solution.
 
