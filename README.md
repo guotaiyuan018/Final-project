@@ -1,7 +1,7 @@
 
 # NTHU I2P3   MiniChess AI (~~Artificial Idiot~~)
 
-[![hackmd-github-sync-badge](https://hackmd.io/Bid-tNjwSYa-we7b2KP1cA/badge)](https://hackmd.io/Bid-tNjwSYa-we7b2KP1cA)
+the submission one is the alpha-beta prunning player
 
 
 ## Introduction
