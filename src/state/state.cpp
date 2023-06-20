@@ -38,7 +38,7 @@ static const int move_table_king[8][2] = {
     {-1, -1},
 };
 
-int chess_value[6] = {1, 5, 3, 3, 10, 100};
+int chess_value[6] = {1, 5, 3, 3, 9, 100};
 
 /**
  * @brief evaluate the state
